@@ -1,0 +1,26 @@
+
+
+.err {
+  color: black;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 11rem;
+}
+
+.far {
+  font-size: 8.5rem;
+  left: 42%;
+  top: 15%;
+  color: black;
+}
+
+.err2 {
+  color: black;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 11rem;
+}
+
+.msg {
+  text-align: center;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 1.6rem;
+}

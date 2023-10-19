@@ -1,0 +1,31 @@
+bleach>=3.3.0
+psycopg2>=2.8.6
+defusedxml==0.5.0rc1; python_version > '3.5'
+Django>=3.1.6
+html5lib>=1.1
+Markdown>=3.3.3
+oauthlib>=3.1.0
+Pygments>=2.7.4
+PyJWT>=2.0.1
+social-auth-app-django>=4.0.0
+social-auth-core>=4.0.3
+python3-openid>=3.0.10
+requests>=2.20.0
+requests-oauthlib>=0.6.1
+six>=1.15.0
+bibtexparser>=1.2.0
+beautifulsoup4>=4.9.3
+lxml
+django-meta>=2.0.0
+pillow
+stripe
+tweepy>=4.2.0
+
+# Unittest
+pytest
+pytest-django
+
+# heroku dependencies
+whitenoise>=5.2
+dj-database-url>=0.4.1
+gunicorn>=20.0.4
